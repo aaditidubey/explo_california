@@ -1,5 +1,6 @@
 *.txt
 textfile
+tempfile
 tempfile.txt
 .DS_Store
 *.zip
