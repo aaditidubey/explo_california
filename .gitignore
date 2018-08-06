@@ -1,0 +1,13 @@
+*.txt
+textfile
+tempfile.txt
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assests/videos/
+!assests/videos/tour_*.mp4
+
+# question: would log/achieve/access.log be ignored?
