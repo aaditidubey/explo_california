@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>An ordered HTML list</h2>
+
+<ol>
+  <li>Coffee</li>
+  <li>fruits</li>
+  <li>Cold-Cofee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+  <li>Juice</li>
+  <li>Shakes</li>
+  <li>Ice-Tea</li>
+
+  
+</ol>  
+
+</body>
+</html>
+
