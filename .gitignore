@@ -1,0 +1,7 @@
+.txt
+txtfile
+*.zip
+*.gz
+log/*.log.[0-9]
+assests/photoshop/
+assests/videos/
